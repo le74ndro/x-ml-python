@@ -14,5 +14,7 @@ YouTube/[channel](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
 [/videos](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos)
 
 
+
 by Stuart Williams [/profile](https://us.pycon.org/2018/speaker/profile/310/)
+- Python Epiphanies [/presentation](https://us.pycon.org/2018/schedule/presentation/45/)
 
