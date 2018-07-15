@@ -22,3 +22,5 @@ Twitter/[@ceilous](https://twitter.com/ceilous)
 - Python By Immersion [/presentation](https://us.pycon.org/2018/schedule/presentation/59/) 3:07:28[/video](https://www.youtube.com/watch?v=M5U9RwBJXiQ) [/Exercises](http://bit.ly/pycon2018-immersion)
 
 
+## Python by Immersion 
+
