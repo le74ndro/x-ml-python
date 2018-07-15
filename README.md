@@ -15,7 +15,9 @@ YouTube/[channel](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
 
 
 
-by Stuart Williams [/profile](https://us.pycon.org/2018/speaker/profile/310/) Twitter/[@ceilous](https://twitter.com/ceilous)
+by Stuart Williams [/profile](https://us.pycon.org/2018/speaker/profile/310/)
+Twitter/[@ceilous](https://twitter.com/ceilous)
+[swilliams.ca](http://swilliams.ca)
 - Python Epiphanies [/presentation](https://us.pycon.org/2018/schedule/presentation/45/)
 - Python By Immersion [/presentation](https://us.pycon.org/2018/schedule/presentation/59/) 3:07:28[/video](https://www.youtube.com/watch?v=M5U9RwBJXiQ) [/Exercises](http://bit.ly/pycon2018-immersion)
 
