@@ -24,10 +24,12 @@ Twitter/[@ceilous](https://twitter.com/ceilous)
 
 ## Python by Immersion 
 by Stuart Williams [/profile/310/]
+at [Pycon] [/2018/] [/presentation/59/]
 
 
 ---
 [/profile/310/]: https://us.pycon.org/2018/speaker/profile/310/
+[/presentation/59/]: https://us.pycon.org/2018/schedule/presentation/59/
 
 
 
