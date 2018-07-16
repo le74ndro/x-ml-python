@@ -40,10 +40,10 @@ exercises [/pycon2018-immersion]
 
 ```
  1       Overview
- 1       Python by Immersion
- 1    0  Objects
- 2   35  Names
- 3   85  Exercises: Objetcs and Names
+ 1       Python by Immersion                            ?t=0s
+ 1    0  Objects                                        ?t=8m30s
+ 2   35  Names                                          ?t=18m25s
+ 3   85  Exercises: Objetcs and Names                   ?t=32m45s
  3  102  Numbers, etc,
  4  157  Exercises: Numbers
  5  193  Strings
