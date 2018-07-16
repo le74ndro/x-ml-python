@@ -26,7 +26,7 @@ Twitter/[@ceilous](https://twitter.com/ceilous)
 by Stuart Williams [/profile/310/]  
 at [Pycon] [/2018/] [/presentation/59/]  
 on YouTube [/M5U9RwBJXiQ]  
-
+exercises [/pycon2018-immersion]  
 
 ---
 [Pycon]: https://us.pycon.org/
@@ -35,6 +35,7 @@ on YouTube [/M5U9RwBJXiQ]
 [/profile/310/]: https://us.pycon.org/2018/speaker/profile/310/
 [/presentation/59/]: https://us.pycon.org/2018/schedule/presentation/59/
 [/M5U9RwBJXiQ]: https://www.youtube.com/watch?v=M5U9RwBJXiQ
+[/pycon2018-immersion]: http://bit.ly/pycon2018-immersion
 
 
 
