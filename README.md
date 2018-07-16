@@ -39,6 +39,8 @@ exercises [/pycon2018-immersion]
 
 
 ```
+pg Line  Topic                                          Time
+-- ----  ---------------------------------------------- -----------
  1       Overview
  1       Python by Immersion                            ?t=0s
  1    0  Objects                                        ?t=8m30s
